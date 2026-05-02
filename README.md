@@ -10,3 +10,14 @@ Visualisation = Streamlit pour créer un dashboard de visualisation
 
 
 
+Architecture :
+
+[ yfinance API ]
+        ↓
+[ ingestion script ]
+        ↓
+[ PostgreSQL ]
+        ↓
+[ transformations ]
+        ↓
+[ API / usage ]
