@@ -42,7 +42,7 @@ User Request
      │
      ▼
 User / Analysis / Pipeline
-```
+
 
 ---
 
@@ -97,8 +97,3 @@ pip install -e .
 * Backtesting
 * Financial research
 
----
-
-## 📄 License
-
-[Add license]
